@@ -1,0 +1,29 @@
+
+Covid-19 Data Analysis Project
+                                                                                        
+Data Analyst: Alex Carran
+
+Purpose: 
+In this project I will be conducting exploratory data analysis of Covid 19 data ranging from the beginning of data collected to October of 2022. The goal of this project is to gather insights on covid related deaths and percentage of population that had been vaccinated. I will be looking at data from some of the larger developed countries and how covid had affected each. I will be able to find countries with the highest infection rates and percentage of deaths based on those who were infected. 
+
+Scope / Major Project Activities:
+What are the major parts of this project? List out the high-level steps, activities, or stages of the project, and give a brief description for each. 
+
+Activity	Description
+Data Collection	Collecting data from a cited trustworthy source through Our world in data (https://ourworldindata.org/covid-deaths) 
+
+Exploratory data analysis	Using SQL server I will use the two data tables to find valuable insights within the dataset. 
+Create visualization	Create compelling visuals that will help my audience understand and comprehend my findings.
+
+This project does not include:
+This data only shows deaths related to the Covid-19 virus
+Implementing any solutions or recommendations
+Covid-19 data passed October 2022
+
+Deliverables
+ 
+Deliverable	Description/ Details
+
+Data Review	 Review of all the data within the tables to clean/update as needed to make sure data can be used
+Data Analysis	Analyze the data and find valuable insights
+Dashboard creation	Create a dashboard to showcase findings
